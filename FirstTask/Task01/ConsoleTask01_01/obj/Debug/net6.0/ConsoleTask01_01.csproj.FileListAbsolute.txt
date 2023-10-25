@@ -1,0 +1,14 @@
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\bin\Debug\net6.0\ConsoleTask01_01.exe
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\bin\Debug\net6.0\ConsoleTask01_01.deps.json
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\bin\Debug\net6.0\ConsoleTask01_01.runtimeconfig.json
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\bin\Debug\net6.0\ConsoleTask01_01.dll
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\bin\Debug\net6.0\ConsoleTask01_01.pdb
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.dll
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\refint\ConsoleTask01_01.dll
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.pdb
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ConsoleTask01_01.genruntimeconfig.cache
+C:\Users\nihad\Desktop\code_academy\FirstTask\Task01\ConsoleTask01_01\obj\Debug\net6.0\ref\ConsoleTask01_01.dll

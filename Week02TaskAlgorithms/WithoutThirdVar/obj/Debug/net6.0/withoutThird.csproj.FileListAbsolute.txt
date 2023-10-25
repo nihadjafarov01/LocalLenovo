@@ -1,0 +1,14 @@
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\bin\Debug\net6.0\withoutThird.exe
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\bin\Debug\net6.0\withoutThird.deps.json
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\bin\Debug\net6.0\withoutThird.runtimeconfig.json
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\bin\Debug\net6.0\withoutThird.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\bin\Debug\net6.0\withoutThird.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\refint\withoutThird.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\withoutThird.genruntimeconfig.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\withoutThird\withoutThird\obj\Debug\net6.0\ref\withoutThird.dll

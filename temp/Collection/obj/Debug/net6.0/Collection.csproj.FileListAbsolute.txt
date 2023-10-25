@@ -1,0 +1,11 @@
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\temp\Collection\obj\Debug\net6.0\ref\Collection.dll

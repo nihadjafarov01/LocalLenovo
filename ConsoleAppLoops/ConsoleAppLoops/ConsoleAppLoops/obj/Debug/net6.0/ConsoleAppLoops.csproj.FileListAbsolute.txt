@@ -1,0 +1,14 @@
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net6.0\ConsoleAppLoops.exe
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net6.0\ConsoleAppLoops.deps.json
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net6.0\ConsoleAppLoops.runtimeconfig.json
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net6.0\ConsoleAppLoops.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\net6.0\ConsoleAppLoops.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.AssemblyInfo.cs
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\refint\ConsoleAppLoops.dll
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.pdb
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ConsoleAppLoops.genruntimeconfig.cache
+C:\Users\nihad\Desktop\code_academy\local_lenovo\ConsoleAppLoops\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\net6.0\ref\ConsoleAppLoops.dll
