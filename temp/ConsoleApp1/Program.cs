@@ -1,16 +1,21 @@
-﻿using Collection;
-
-namespace ConsoleApp1
+﻿namespace ConsoleApp1;
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        ClownFish clownFish = new ClownFish();
+        Shark shark = new Shark();
+        Ostrich ostrich = new Ostrich();
+        Parrot parrot = new Parrot();
+
+        Animal[] animals = new Animal[] {clownFish, shark, ostrich, parrot};
+
+        foreach (var animal in animals)
         {
-            IntList list1 = new IntList();
-            list1.Add(1,5,9,1,0);
-            //list1.Sort();
-            //list1.Print();
-            Console.WriteLine(list1.Search(9));
+            if (animal is Ostrich)
+            {
+
+            }
         }
     }
 }
